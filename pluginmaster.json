@@ -1,6 +1,23 @@
 [
     {
         "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Description": "oobs",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 2,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1615554107"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "Cammy",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.",
         "InternalName": "Cammy",
@@ -14,6 +31,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615553124"
+        "LastUpdated": "1615554107"
     }
 ]
