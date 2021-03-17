@@ -14,12 +14,12 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615555833"
+        "LastUpdated": "1616023484"
     },
     {
         "Author": "UnknownX",
         "Name": "Cammy",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
         "InternalName": "Cammy",
         "AssemblyVersion": "1.0.0.1",
         "RepoUrl": "https://github.com/UnknownX7/Cammy",
@@ -31,6 +31,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1615555833"
+        "LastUpdated": "1616023484"
     }
 ]
