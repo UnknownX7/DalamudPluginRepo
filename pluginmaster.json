@@ -14,23 +14,23 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618430700"
+        "LastUpdated": "1618430875"
     },
     {
         "Author": "UnknownX",
         "Name": "OOBlugin",
         "Description": "oobs",
         "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 2,
+        "DalamudApiLevel": 3,
         "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1618430700"
+        "LastUpdated": "1618430875"
     }
 ]
