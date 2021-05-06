@@ -1,0 +1,11 @@
+﻿{
+    "Author":  "UnknownX",
+    "Name":  "Fractionality",
+    "Description":  "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
+    "InternalName":  "Fractionality",
+    "AssemblyVersion":  "1.0.0.0",
+    "RepoUrl":  "https://github.com/UnknownX7/Fractionality",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  3,
+    "LoadPriority":  0
+}
