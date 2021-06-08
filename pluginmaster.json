@@ -1,6 +1,23 @@
 [
     {
         "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Description": "oobs",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.0.4.0",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1623135760"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "Fractionality",
         "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
         "InternalName": "Fractionality",
@@ -14,24 +31,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620918058"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "OOBlugin",
-        "Description": "oobs",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.0.3.0",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1620918058"
+        "LastUpdated": "1623135760"
     },
     {
         "Author": "UnknownX",
@@ -48,6 +48,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1620918058"
+        "LastUpdated": "1623135760"
     }
 ]
