@@ -14,14 +14,14 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625612271"
+        "LastUpdated": "1625616553"
     },
     {
         "Author": "UnknownX",
         "Name": "OOBlugin",
         "Description": "oobs",
         "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.0.1",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
@@ -31,7 +31,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625612271"
+        "LastUpdated": "1625616553"
     },
     {
         "Author": "UnknownX",
@@ -48,6 +48,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1625612271"
+        "LastUpdated": "1625616553"
     }
 ]
