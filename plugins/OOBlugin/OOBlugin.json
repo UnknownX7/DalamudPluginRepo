@@ -3,7 +3,7 @@
     "Name":  "OOBlugin",
     "Description":  "oobs",
     "InternalName":  "OOBlugin",
-    "AssemblyVersion":  "1.1.1.0",
+    "AssemblyVersion":  "1.1.1.1",
     "RepoUrl":  "https://github.com/UnknownX7/OOBlugin",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  3,
