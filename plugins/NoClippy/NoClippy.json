@@ -3,7 +3,7 @@
     "Name":  "NoClippy",
     "Description":  "Reduces the effects of lag on weaving, significantly lowering the chances of clipping. Does the same thing as XivAlexander, do NOT attempt to use both.",
     "InternalName":  "NoClippy",
-    "AssemblyVersion":  "0.1.2.1",
+    "AssemblyVersion":  "0.1.2.2",
     "RepoUrl":  "https://github.com/UnknownX7/NoClippy",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  3,
