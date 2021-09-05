@@ -14,7 +14,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630817260"
+        "LastUpdated": "1630818692"
     },
     {
         "Author": "UnknownX",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630817260"
+        "LastUpdated": "1630818692"
     },
     {
         "Author": "UnknownX",
@@ -54,7 +54,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630817260"
+        "LastUpdated": "1630818692"
     },
     {
         "Author": "UnknownX",
@@ -71,23 +71,29 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630817260"
+        "LastUpdated": "1630818692"
     },
     {
         "Author": "UnknownX",
         "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Updated for API4",
         "InternalName": "Cammy",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/UnknownX7/Cammy",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
+        "DalamudApiLevel": 4,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
         "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Cammy/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630817260"
+        "LastUpdated": "1630818692"
     }
 ]
