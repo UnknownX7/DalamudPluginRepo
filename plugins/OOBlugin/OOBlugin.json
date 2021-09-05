@@ -1,11 +1,17 @@
 ﻿{
     "Author":  "UnknownX",
     "Name":  "OOBlugin",
-    "Description":  "oobs",
-    "InternalName":  "OOBlugin",
-    "AssemblyVersion":  "1.1.1.1",
+    "Punchline":  "oob oob",
+    "Description":  "oob oob",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
     "RepoUrl":  "https://github.com/UnknownX7/OOBlugin",
+    "InternalName":  "OOBlugin",
+    "AssemblyVersion":  "1.1.2.0",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  3,
-    "LoadPriority":  0
+    "DalamudApiLevel":  4,
+    "LoadPriority":  0,
+    "Changelog":  "Updated for API4"
 }
