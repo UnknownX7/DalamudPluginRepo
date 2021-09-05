@@ -1,37 +1,20 @@
 [
     {
         "Author": "UnknownX",
-        "Name": "Fractionality",
-        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "Name": "OOBlugin",
+        "Description": "oobs",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.1.1",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629612607"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser",
-        "Description": "A simple interface to quickly see and add third party repositories.",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "1.0.0.1",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1629612607"
+        "LastUpdated": "1630814839"
     },
     {
         "Author": "UnknownX",
@@ -48,24 +31,41 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629612607"
+        "LastUpdated": "1630814839"
     },
     {
         "Author": "UnknownX",
-        "Name": "OOBlugin",
-        "Description": "oobs",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.1.1",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "Name": "DalamudRepoBrowser",
+        "Description": "A simple interface to quickly see and add third party repositories.",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 3,
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629612607"
+        "LastUpdated": "1630814839"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality",
+        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 3,
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1630814839"
     },
     {
         "Author": "UnknownX",
@@ -82,6 +82,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1629612607"
+        "LastUpdated": "1630814839"
     }
 ]
