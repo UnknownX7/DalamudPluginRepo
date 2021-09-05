@@ -6,7 +6,7 @@
         "Description": "oob oob",
         "Changelog": "Updated for API4",
         "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.0",
+        "AssemblyVersion": "1.1.2.1",
         "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630818932"
+        "LastUpdated": "1630838247"
     },
     {
         "Author": "UnknownX",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630818932"
+        "LastUpdated": "1630838247"
     },
     {
         "Author": "UnknownX",
@@ -60,7 +60,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630818932"
+        "LastUpdated": "1630838247"
     },
     {
         "Author": "UnknownX",
@@ -83,7 +83,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630818932"
+        "LastUpdated": "1630838247"
     },
     {
         "Author": "UnknownX",
@@ -106,6 +106,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/api4/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1630818932"
+        "LastUpdated": "1630838247"
     }
 ]
