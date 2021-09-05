@@ -1,11 +1,17 @@
 ﻿{
     "Author":  "UnknownX",
     "Name":  "Fractionality",
+    "Punchline":  "Changes /wait and \u003cwait\u003e to support fractions",
     "Description":  "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
-    "InternalName":  "Fractionality",
-    "AssemblyVersion":  "1.0.0.0",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
     "RepoUrl":  "https://github.com/UnknownX7/Fractionality",
+    "InternalName":  "Fractionality",
+    "AssemblyVersion":  "1.0.1.0",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  3,
-    "LoadPriority":  0
+    "DalamudApiLevel":  4,
+    "LoadPriority":  0,
+    "Changelog":  "Updated for API4"
 }
