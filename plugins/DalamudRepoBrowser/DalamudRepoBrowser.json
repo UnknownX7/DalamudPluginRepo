@@ -1,11 +1,17 @@
 ﻿{
     "Author":  "UnknownX",
     "Name":  "DalamudRepoBrowser",
-    "Description":  "A simple interface to quickly see and add third party repositories.",
-    "InternalName":  "DalamudRepoBrowser",
-    "AssemblyVersion":  "1.0.0.1",
+    "Punchline":  "Browse and add third party repositories in an instant",
+    "Description":  "An interface for browsing and managing third party repositories.",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
     "RepoUrl":  "https://github.com/UnknownX7/DalamudRepoBrowser",
+    "InternalName":  "DalamudRepoBrowser",
+    "AssemblyVersion":  "1.0.1.0",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  3,
-    "LoadPriority":  0
+    "DalamudApiLevel":  4,
+    "LoadPriority":  0,
+    "Changelog":  "Updated for API4"
 }
