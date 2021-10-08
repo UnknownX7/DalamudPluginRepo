@@ -1,11 +1,17 @@
 ﻿{
     "Author":  "UnknownX",
     "Name":  "NoClippy",
+    "Punchline":  "Reduces clipping caused by lag, and shows you when you clip",
     "Description":  "Reduces the effects of lag on weaving, significantly lowering the chances of clipping. Does the same thing as XivAlexander, do NOT attempt to use both.",
-    "InternalName":  "NoClippy",
-    "AssemblyVersion":  "0.2.0.1",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
     "RepoUrl":  "https://github.com/UnknownX7/NoClippy",
+    "InternalName":  "NoClippy",
+    "AssemblyVersion":  "0.3.0.0",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  3,
-    "LoadPriority":  0
+    "DalamudApiLevel":  4,
+    "LoadPriority":  0,
+    "Changelog":  "Improved consistency with the game\u0027s real animation lock quirks, and added the ability to change how early GCDs can be queued."
 }
