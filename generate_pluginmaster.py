@@ -29,6 +29,7 @@ TRIMMED_KEYS = [
     'RepoUrl',
     'ApplicableVersion',
     'Tags',
+    'CategoryTags',
     'DalamudApiLevel',
     'IconUrl',
     'ImageUrls',
