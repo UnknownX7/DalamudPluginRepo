@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634274715"
+        "LastUpdated": "1635185800"
     },
     {
         "Author": "UnknownX",
@@ -43,18 +43,22 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634274715"
+        "LastUpdated": "1635185800"
     },
     {
         "Author": "UnknownX",
         "Name": "NoClippy",
         "Punchline": "Reduces clipping caused by lag, and shows you when you clip",
         "Description": "Reduces the effects of lag on weaving, significantly lowering the chances of clipping. Does the same thing as XivAlexander, do NOT attempt to use both.",
-        "Changelog": "Improved consistency with the game's real animation lock quirks, and added the ability to change how early GCDs can be queued.",
+        "Changelog": "",
         "InternalName": "NoClippy",
-        "AssemblyVersion": "0.3.0.0",
+        "AssemblyVersion": "0.4.0.0",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
         "DalamudApiLevel": 4,
         "IconUrl": "",
         "ImageUrls": [
@@ -66,7 +70,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634274715"
+        "LastUpdated": "1635185800"
     },
     {
         "Author": "UnknownX",
@@ -92,7 +96,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634274715"
+        "LastUpdated": "1635185800"
     },
     {
         "Author": "UnknownX",
@@ -115,6 +119,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1634274715"
+        "LastUpdated": "1635185800"
     }
 ]
