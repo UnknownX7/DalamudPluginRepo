@@ -8,10 +8,14 @@
                       ""
                   ],
     "RepoUrl":  "https://github.com/UnknownX7/NoClippy",
+    "CategoryTags":  [
+                         "jobs",
+                         "utility"
+                     ],
     "InternalName":  "NoClippy",
-    "AssemblyVersion":  "0.3.0.0",
+    "AssemblyVersion":  "0.4.0.0",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  4,
     "LoadPriority":  0,
-    "Changelog":  "Improved consistency with the game\u0027s real animation lock quirks, and added the ability to change how early GCDs can be queued."
+    "Changelog":  ""
 }
