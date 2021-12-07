@@ -4,12 +4,12 @@
         "Name": "Fractionality",
         "Punchline": "Changes /wait and <wait> to support fractions",
         "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
-        "Changelog": "Updated for API4",
+        "Changelog": "",
         "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "https://github.com/UnknownX7/Fractionality",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 4,
+        "DalamudApiLevel": 5,
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638864033"
+        "LastUpdated": "1638865646"
     },
     {
         "Author": "UnknownX",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638864033"
+        "LastUpdated": "1638865646"
     },
     {
         "Author": "UnknownX",
@@ -69,7 +69,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638864033"
+        "LastUpdated": "1638865646"
     },
     {
         "Author": "UnknownX",
@@ -96,7 +96,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638864033"
+        "LastUpdated": "1638865646"
     },
     {
         "Author": "UnknownX",
@@ -122,6 +122,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1638864033"
+        "LastUpdated": "1638865646"
     }
 ]
