@@ -12,9 +12,9 @@
                          "utility"
                      ],
     "InternalName":  "Cammy",
-    "AssemblyVersion":  "2.0.2.0",
+    "AssemblyVersion":  "2.0.2.1",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  4,
+    "DalamudApiLevel":  5,
     "LoadPriority":  0,
     "Changelog":  ""
 }
