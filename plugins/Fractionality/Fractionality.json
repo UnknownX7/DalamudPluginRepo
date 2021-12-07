@@ -9,9 +9,9 @@
                   ],
     "RepoUrl":  "https://github.com/UnknownX7/Fractionality",
     "InternalName":  "Fractionality",
-    "AssemblyVersion":  "1.0.1.0",
+    "AssemblyVersion":  "1.0.1.1",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  4,
+    "DalamudApiLevel":  5,
     "LoadPriority":  0,
-    "Changelog":  "Updated for API4"
+    "Changelog":  ""
 }
