@@ -23,7 +23,33 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639768439"
+        "LastUpdated": "1639778392"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "ReAction",
+        "Punchline": "Improves certain aspects of actions, such as targeting.",
+        "Description": "Improves certain aspects of actions, such as targeting. Similar to MOAction.",
+        "Changelog": "",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1639778392"
     },
     {
         "Author": "UnknownX",
@@ -49,7 +75,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639768439"
+        "LastUpdated": "1639778392"
     },
     {
         "Author": "UnknownX",
@@ -72,7 +98,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639768439"
+        "LastUpdated": "1639778392"
     },
     {
         "Author": "UnknownX",
@@ -98,7 +124,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639768439"
+        "LastUpdated": "1639778392"
     },
     {
         "Author": "UnknownX",
@@ -125,6 +151,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1639768439"
+        "LastUpdated": "1639778392"
     }
 ]
