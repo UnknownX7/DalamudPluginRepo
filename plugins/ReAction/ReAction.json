@@ -1,0 +1,20 @@
+﻿{
+    "Author":  "UnknownX",
+    "Name":  "ReAction",
+    "Punchline":  "Improves certain aspects of actions, such as targeting.",
+    "Description":  "Improves certain aspects of actions, such as targeting. Similar to MOAction.",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
+    "RepoUrl":  "https://github.com/UnknownX7/ReAction",
+    "CategoryTags":  [
+                         "jobs"
+                     ],
+    "InternalName":  "ReAction",
+    "AssemblyVersion":  "1.0.0.0",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  5,
+    "LoadPriority":  0,
+    "Changelog":  ""
+}
