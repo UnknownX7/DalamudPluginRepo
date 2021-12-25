@@ -12,7 +12,7 @@
                          "jobs"
                      ],
     "InternalName":  "ReAction",
-    "AssemblyVersion":  "1.0.3.1",
+    "AssemblyVersion":  "1.1.0.0",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  5,
     "LoadPriority":  0,
