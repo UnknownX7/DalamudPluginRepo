@@ -13,7 +13,7 @@
                          "utility"
                      ],
     "InternalName":  "NoClippy",
-    "AssemblyVersion":  "0.4.0.4",
+    "AssemblyVersion":  "0.4.0.5",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  5,
     "LoadPriority":  0,
