@@ -23,7 +23,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642584887"
+        "LastUpdated": "1642778838"
     },
     {
         "Author": "UnknownX",
@@ -49,7 +49,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642584887"
+        "LastUpdated": "1642778838"
     },
     {
         "Author": "UnknownX",
@@ -72,7 +72,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642584887"
+        "LastUpdated": "1642778838"
     },
     {
         "Author": "UnknownX",
@@ -99,7 +99,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642584887"
+        "LastUpdated": "1642778838"
     },
     {
         "Author": "UnknownX",
@@ -125,7 +125,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642584887"
+        "LastUpdated": "1642778838"
     },
     {
         "Author": "UnknownX",
@@ -134,7 +134,7 @@
         "Description": "An interface for browsing and managing third party repositories.",
         "Changelog": "",
         "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "1.0.2.1",
+        "AssemblyVersion": "2.0.0.0",
         "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -151,6 +151,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1642584887"
+        "LastUpdated": "1642778838"
     }
 ]
