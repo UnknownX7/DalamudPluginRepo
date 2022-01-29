@@ -12,9 +12,9 @@
                          "utility"
                      ],
     "InternalName":  "Cammy",
-    "AssemblyVersion":  "2.0.2.1",
+    "AssemblyVersion":  "2.0.3.0",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  5,
     "LoadPriority":  0,
-    "Changelog":  ""
+    "Changelog":  "Free cam improvements, side offset, new death cam mode"
 }
