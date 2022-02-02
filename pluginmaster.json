@@ -6,7 +6,7 @@
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
         "Changelog": "Free cam improvements, side offset, new death cam mode",
         "InternalName": "Cammy",
-        "AssemblyVersion": "2.0.3.0",
+        "AssemblyVersion": "2.0.3.1",
         "RepoUrl": "https://github.com/UnknownX7/Cammy",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -23,7 +23,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643497471"
+        "LastUpdated": "1643840827"
     },
     {
         "Author": "UnknownX",
@@ -49,7 +49,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643497471"
+        "LastUpdated": "1643840827"
     },
     {
         "Author": "UnknownX",
@@ -76,7 +76,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643497471"
+        "LastUpdated": "1643840827"
     },
     {
         "Author": "UnknownX",
@@ -99,7 +99,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643497471"
+        "LastUpdated": "1643840827"
     },
     {
         "Author": "UnknownX",
@@ -125,7 +125,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643497471"
+        "LastUpdated": "1643840827"
     },
     {
         "Author": "UnknownX",
@@ -151,6 +151,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1643497471"
+        "LastUpdated": "1643840827"
     }
 ]
