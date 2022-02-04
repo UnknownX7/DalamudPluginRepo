@@ -96,8 +96,8 @@ def last_updated():
         latest = f'plugins/{plugin["InternalName"]}/latest.zip'
         modified = int(getmtime(latest))
 
-        if 'LastUpdated' not in plugin or modified != int(plugin['LastUpdated']):
-            plugin['LastUpdated'] = str(modified)
+        if 'LastUpdate' not in plugin or modified != int(plugin['LastUpdate']):
+            plugin['LastUpdate'] = str(modified)
 
     with open('pluginmaster.json', 'w') as f:
         json.dump(master, f, indent=4)
