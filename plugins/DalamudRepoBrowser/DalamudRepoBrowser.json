@@ -12,9 +12,9 @@
                          "other"
                      ],
     "InternalName":  "DalamudRepoBrowser",
-    "AssemblyVersion":  "2.0.0.1",
+    "AssemblyVersion":  "2.0.0.2",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  5,
+    "DalamudApiLevel":  6,
     "LoadPriority":  0,
     "Changelog":  ""
 }
