@@ -15,7 +15,7 @@
     "InternalName":  "NoClippy",
     "AssemblyVersion":  "0.4.0.6",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  6,
+    "DalamudApiLevel":  5,
     "LoadPriority":  0,
     "Changelog":  ""
 }
