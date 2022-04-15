@@ -12,9 +12,9 @@
                          "jobs"
                      ],
     "InternalName":  "ReAction",
-    "AssemblyVersion":  "1.1.5.0",
+    "AssemblyVersion":  "1.1.5.1",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  5,
+    "DalamudApiLevel":  6,
     "LoadPriority":  0,
     "Changelog":  "Auto Refocus Target"
 }
