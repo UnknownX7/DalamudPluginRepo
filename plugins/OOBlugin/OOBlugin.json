@@ -12,9 +12,9 @@
                          "utility"
                      ],
     "InternalName":  "OOBlugin",
-    "AssemblyVersion":  "1.1.2.5",
+    "AssemblyVersion":  "1.1.2.6",
     "ApplicableVersion":  "any",
-    "DalamudApiLevel":  5,
+    "DalamudApiLevel":  6,
     "LoadPriority":  0,
     "Changelog":  ""
 }
