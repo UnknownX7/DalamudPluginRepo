@@ -12,9 +12,9 @@
                          "jobs"
                      ],
     "InternalName":  "ReAction",
-    "AssemblyVersion":  "1.1.6.0",
+    "AssemblyVersion":  "1.1.6.1",
     "ApplicableVersion":  "any",
     "DalamudApiLevel":  6,
     "LoadPriority":  0,
-    "Changelog":  "New decombos, support for placing things on the cross hotbars, new /macroqueue command"
+    "Changelog":  ""
 }
