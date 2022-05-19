@@ -23,7 +23,33 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652340398"
+        "LastUpdate": "1652978165"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.0.2",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1652978165"
     },
     {
         "Author": "UnknownX",
@@ -49,82 +75,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652340398"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "A Realm Recorded",
-        "Punchline": "Allows you to use the duty recorder",
-        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
-        "Changelog": "",
-        "InternalName": "ARealmRecorded",
-        "AssemblyVersion": "0.1.0.0",
-        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1652340398"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
-        "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.6",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1652340398"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Fractionality",
-        "Punchline": "Changes /wait and <wait> to support fractions",
-        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
-        "Changelog": "",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.2",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1652340398"
+        "LastUpdate": "1652978165"
     },
     {
         "Author": "UnknownX",
@@ -151,32 +102,81 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652340398"
+        "LastUpdate": "1652978165"
     },
     {
         "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
         "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.0.2",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.6",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "other"
+            "utility"
         ],
         "DalamudApiLevel": 6,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652340398"
+        "LastUpdate": "1652978165"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "A Realm Recorded",
+        "Punchline": "Allows you to use the duty recorder",
+        "Description": "Adds additional features to the duty recorder and automatically starts it in most instances. Please make sure the setting is enabled inside \"/record\".",
+        "Changelog": "",
+        "InternalName": "ARealmRecorded",
+        "AssemblyVersion": "0.2.0.0",
+        "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ARealmRecorded/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1652978165"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality",
+        "Punchline": "Changes /wait and <wait> to support fractions",
+        "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
+        "Changelog": "",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.2",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1652978165"
     }
 ]
