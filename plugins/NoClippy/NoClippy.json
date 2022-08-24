@@ -1,21 +1,21 @@
-﻿{
-    "Author":  "UnknownX",
-    "Name":  "NoClippy",
-    "Punchline":  "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-    "Description":  "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-    "IconUrl":  "",
-    "ImageUrls":  [
-                      ""
-                  ],
-    "RepoUrl":  "https://github.com/UnknownX7/NoClippy",
-    "CategoryTags":  [
-                         "jobs",
-                         "utility"
-                     ],
-    "InternalName":  "NoClippy",
-    "AssemblyVersion":  "0.4.0.9",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  6,
-    "LoadPriority":  0,
-    "Changelog":  ""
+{
+  "Author": "UnknownX",
+  "Name": "NoClippy",
+  "InternalName": "NoClippy",
+  "AssemblyVersion": "0.4.0.10",
+  "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+  "CategoryTags": [
+    "jobs",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "",
+  "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+  "Changelog": ""
 }
