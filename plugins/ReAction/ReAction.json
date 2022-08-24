@@ -1,20 +1,20 @@
-﻿{
-    "Author":  "UnknownX",
-    "Name":  "ReAction",
-    "Punchline":  "QoL for the battle system.",
-    "Description":  "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-    "IconUrl":  "",
-    "ImageUrls":  [
-                      ""
-                  ],
-    "RepoUrl":  "https://github.com/UnknownX7/ReAction",
-    "CategoryTags":  [
-                         "jobs"
-                     ],
-    "InternalName":  "ReAction",
-    "AssemblyVersion":  "1.1.6.4",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  6,
-    "LoadPriority":  0,
-    "Changelog":  ""
+{
+  "Author": "UnknownX",
+  "Name": "ReAction",
+  "InternalName": "ReAction",
+  "AssemblyVersion": "1.1.6.5",
+  "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/UnknownX7/ReAction",
+  "CategoryTags": [
+    "jobs"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "",
+  "Punchline": "QoL for the battle system.",
+  "Changelog": ""
 }
