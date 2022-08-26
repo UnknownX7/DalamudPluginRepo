@@ -23,7 +23,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661461908"
+        "LastUpdate": "1661476171"
     },
     {
         "Author": "UnknownX",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661461908"
+        "LastUpdate": "1661476171"
     },
     {
         "Author": "UnknownX",
@@ -72,7 +72,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661461908"
+        "LastUpdate": "1661476171"
     },
     {
         "Author": "UnknownX",
@@ -81,7 +81,7 @@
         "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
         "Changelog": "",
         "InternalName": "NoClippy",
-        "AssemblyVersion": "0.4.0.10",
+        "AssemblyVersion": "0.4.0.11",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -99,7 +99,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661461908"
+        "LastUpdate": "1661476171"
     },
     {
         "Author": "UnknownX",
@@ -125,7 +125,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661461908"
+        "LastUpdate": "1661476171"
     },
     {
         "Author": "UnknownX",
@@ -151,6 +151,6 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1661461908"
+        "LastUpdate": "1661476171"
     }
 ]
