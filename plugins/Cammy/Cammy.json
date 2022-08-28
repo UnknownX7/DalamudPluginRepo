@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "Cammy",
   "InternalName": "Cammy",
-  "AssemblyVersion": "2.0.3.4",
+  "AssemblyVersion": "2.0.3.5",
   "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoomhack, if you aren't comfortable with that fact, don't install it.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/Cammy",
