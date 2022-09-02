@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "DalamudRepoBrowser",
   "InternalName": "DalamudRepoBrowser",
-  "AssemblyVersion": "2.0.1.1",
+  "AssemblyVersion": "2.0.1.2",
   "Description": "An interface for browsing and managing third party repositories.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
