@@ -2,19 +2,22 @@
   "Author": "UnknownX",
   "Name": "OOBlugin",
   "InternalName": "OOBlugin",
-  "AssemblyVersion": "1.1.2.7",
+  "AssemblyVersion": "1.1.2.8",
   "Description": "oob oob",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     ""
   ],
   "IconUrl": "",
   "Punchline": "oob oob",
-  "Changelog": ""
+  "Changelog": "",
+  "AcceptsFeedback": true
 }
