@@ -12,3 +12,6 @@ Then follow the image:
 4. Click the 💾 button.
 
 Now these plugins will appear inside of the Plugin Installer, accessible through typing `/xlplugins` in the chat.
+
+## Donations
+Donations are appreciated and can be done via https://ko-fi.com/unknownx7. This is entirely optional and all of my work will remain free to use for everyone.
