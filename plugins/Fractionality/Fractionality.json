@@ -2,13 +2,11 @@
   "Author": "UnknownX",
   "Name": "Fractionality",
   "InternalName": "Fractionality",
-  "AssemblyVersion": "1.0.1.4",
-  "Description": "Adds 3 decimal precision waiting to macros and removes the 60 seconds cap.",
+  "AssemblyVersion": "1.0.1.5",
+  "Description": "This plugin is available as an option in ReAction now.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/Fractionality",
-  "CategoryTags": [
-    "utility"
-  ],
+  "CategoryTags": [],
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
@@ -17,6 +15,6 @@
     ""
   ],
   "IconUrl": "",
-  "Punchline": "Changes /wait and <wait> to support fractions",
+  "Punchline": "DEPRECATED",
   "AcceptsFeedback": true
 }
