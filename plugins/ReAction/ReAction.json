@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "ReAction",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.1.6.7",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/ReAction",
@@ -18,6 +18,6 @@
   ],
   "IconUrl": "",
   "Punchline": "QoL for the battle system.",
-  "Changelog": "",
+  "Changelog": "Plugin rework, early pull protection for spell autos, LB queuing, universal macro queue option, Fractionality feature, several bug fixes",
   "AcceptsFeedback": true
 }
