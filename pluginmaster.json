@@ -1,29 +1,6 @@
 [
     {
         "Author": "UnknownX",
-        "Name": "Fractionality",
-        "Punchline": "DEPRECATED",
-        "Description": "This plugin is available as an option in ReAction now.",
-        "InternalName": "Fractionality",
-        "AssemblyVersion": "1.0.1.5",
-        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
-        "ApplicableVersion": "any",
-        "CategoryTags": [],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1678787177"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "Cammy",
         "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
@@ -46,85 +23,30 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678787177"
+        "LastUpdate": "1678970828"
     },
     {
         "Author": "UnknownX",
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "Added Sunder Geirskogul (By Glarator) and added very slight caching to Field Target Party Member to improve accuracy in certain scenarios.",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.2.0",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "Name": "Fractionality",
+        "Punchline": "DEPRECATED",
+        "Description": "This plugin is available as an option in ReAction now.",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.5",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
         "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
+        "CategoryTags": [],
         "DalamudApiLevel": 8,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678787177"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
-        "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.8",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1678787177"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.2",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1678787177"
+        "LastUpdate": "1678970828"
     },
     {
         "Author": "UnknownX",
@@ -151,6 +73,84 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678787177"
+        "LastUpdate": "1678970828"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.2",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1678970828"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "ReAction",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "Added Sunder Geirskogul (By Glarator) and added very slight caching to Field Target Party Member to improve accuracy in certain scenarios.",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.2.1",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1678970828"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.8",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1678970828"
     }
 ]
