@@ -1,0 +1,56 @@
+name: Create Release and Update Repository
+
+on:
+  workflow_call:
+    inputs:
+      internal_name:
+        type: string
+        required: true
+      solution_name:
+        type: string
+        required: true
+      build_configuration:
+        type: string
+        required: true
+      personal_plugin_repo:
+        type: string
+      personal_plugin_repo_branch:
+        type: string
+    secrets:
+      PAT:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: windows-2022
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1.3.1
+
+      - name: Setup NuGet
+        uses: NuGet/setup-nuget@v1.1.1
+
+      - name: Restore NuGet Packages
+        run: nuget restore ${{ inputs.solution_name }}.sln
+
+      - name: Download Dalamud
+        run: |
+          Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/stg/latest.zip -OutFile latest.zip
+          Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev\"
+
+      - name: Build
+        run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v0.1.15
+        with:
+          files: ./bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/latest.zip
+          draft: false
+          prerelease: false
