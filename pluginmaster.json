@@ -17,13 +17,13 @@
         "ImageUrls": [
             "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Cammy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680200836"
+        "LastUpdate": "1680203739"
     },
     {
         "Author": "UnknownX",
@@ -40,13 +40,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Fractionality/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/Fractionality/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680200836"
+        "LastUpdate": "1680203739"
     },
     {
         "Author": "UnknownX",
@@ -67,13 +67,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/NoClippy/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680200836"
+        "LastUpdate": "1680203739"
     },
     {
         "Author": "UnknownX",
@@ -93,13 +93,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/DalamudRepoBrowser/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680200836"
+        "LastUpdate": "1680203739"
     },
     {
         "Author": "UnknownX",
@@ -119,13 +119,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680200836"
+        "LastUpdate": "1680203739"
     },
     {
         "Author": "UnknownX",
@@ -145,12 +145,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/OOBlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/latest/download/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680200836"
+        "LastUpdate": "1680203739"
     }
 ]
