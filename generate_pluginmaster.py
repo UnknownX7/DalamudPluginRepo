@@ -3,10 +3,8 @@ import os
 from time import time
 from sys import argv
 from os.path import getmtime
-from zipfile import ZipFile, ZIP_DEFLATED
 
-BRANCH = os.environ['GITHUB_REF'].split('refs/heads/')[-1]
-DOWNLOAD_URL = 'https://github.com/UnknownX7/DalamudPluginRepo/raw/{branch}/plugins/{plugin_name}/latest.zip'
+DOWNLOAD_URL = 'https://github.com/UnknownX7/{plugin_name}/releases/latest/download/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -36,7 +34,7 @@ TRIMMED_KEYS = [
 ]
 
 def main():
-    # extract the manifests from inside the zip files
+    # extract the manifests from the repository
     master = extract_manifests()
 
     # trim the manifests
@@ -55,12 +53,11 @@ def extract_manifests():
     manifests = []
 
     for dirpath, dirnames, filenames in os.walk('./plugins'):
-        if len(filenames) == 0 or 'latest.zip' not in filenames:
-            continue
         plugin_name = dirpath.split('/')[-1]
-        latest_zip = f'{dirpath}/latest.zip'
-        with ZipFile(latest_zip) as z:
-            manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8-sig'))
+        if len(filenames) == 0 or f'{plugin_name}.json' not in filenames:
+            continue
+        with open(f'{dirpath}/{plugin_name}.json', 'r') as f:
+            manifest = json.loads(f.read())
             manifests.append(manifest)
 
     return manifests
@@ -68,7 +65,7 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(plugin_name=manifest["InternalName"])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
@@ -93,7 +90,7 @@ def last_updated():
         master = json.load(f)
 
     for plugin in master:
-        latest = f'plugins/{plugin["InternalName"]}/latest.zip'
+        latest = f'plugins/{plugin["InternalName"]}/{plugin["InternalName"]}.json'
         modified = int(getmtime(latest))
 
         if 'LastUpdate' not in plugin or modified != int(plugin['LastUpdate']):
