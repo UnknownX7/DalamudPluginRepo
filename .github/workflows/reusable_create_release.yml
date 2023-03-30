@@ -14,21 +14,24 @@ on:
         required: true
       personal_plugin_repo:
         type: string
+        required: true
       personal_plugin_repo_branch:
         type: string
+        required: true
     secrets:
       PAT:
-        required: false
+        required: true
 
 permissions:
   contents: write
 
 jobs:
-  deploy:
+  build:
     runs-on: windows-2022
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
         with:
           submodules: true
 
@@ -48,6 +51,38 @@ jobs:
 
       - name: Build
         run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
+
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v2.2.1
+        with:
+          path: ./bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/*
+
+  deploy:
+    needs: build
+    runs-on: windows-2022
+
+    steps:
+      - name: Checkout Plugin Repository
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ inputs.personal_plugin_repo }}
+          token: ${{ secrets.PAT }}
+          ref: ${{ inputs.personal_plugin_repo_branch }}
+
+      - name: Download Plugin Build Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: artifact
+          path: plugins/${{ inputs.internal_name }}
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v7
+        with:
+          add: ./plugins/${{ inputs.internal_name }}/${{ inputs.internal_name }}.json
+          author_name: GitHub Action
+          author_email: github-actions[bot]@users.noreply.github.com
+          branch: ${{ inputs.personal_plugin_repo_branch }}
+          message: Update ${{ inputs.internal_name }}
 
       - name: Create Release
         uses: softprops/action-gh-release@v0.1.15
