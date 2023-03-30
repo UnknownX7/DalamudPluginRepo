@@ -73,7 +73,7 @@ def add_extra_fields(manifests):
                 if k not in manifest:
                     manifest[k] = manifest[source]
         manifest['DownloadCount'] = 0
-        manifest['LastUpdate'] = str(int(getmtime(f'./plugins/{plugin['InternalName']}/{plugin['InternalName']}.json')))
+        manifest['LastUpdate'] = str(int(getmtime(f'./plugins/{manifest['InternalName']}/{manifest['InternalName']}.json')))
 
 def write_master(master):
     # write as pretty json
