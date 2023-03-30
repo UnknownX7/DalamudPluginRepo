@@ -20,6 +20,9 @@ on:
       PAT:
         required: false
 
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: windows-2022
