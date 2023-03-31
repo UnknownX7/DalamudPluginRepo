@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "ReAction",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.3.2.1",
+  "AssemblyVersion": "1.3.2.2",
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/ReAction",
@@ -18,6 +18,6 @@
   ],
   "IconUrl": "",
   "Punchline": "QoL for the battle system.",
-  "Changelog": "Added Sunder Geirskogul (By Glarator) and added very slight caching to Field Target Party Member to improve accuracy in certain scenarios.",
+  "Changelog": "Further improvements to overall plugin stability and other minor adjustments have been made to enhance the user experience.",
   "AcceptsFeedback": true
 }
