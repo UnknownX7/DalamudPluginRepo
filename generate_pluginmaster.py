@@ -4,7 +4,7 @@ from time import time
 from sys import argv
 from os.path import getmtime
 
-DOWNLOAD_URL = '{}/releases/v{}/download/latest.zip'
+DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
