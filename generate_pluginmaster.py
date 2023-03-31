@@ -1,10 +1,12 @@
 import json
 import os
+import requests
 from time import time
 from sys import argv
 from os.path import getmtime
 
 DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
+GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
 
 DEFAULTS = {
     'IsHide': False,
@@ -72,8 +74,19 @@ def add_extra_fields(manifests):
             for k in keys:
                 if k not in manifest:
                     manifest[k] = manifest[source]
-        manifest['DownloadCount'] = 0
+        manifest['DownloadCount'] = get_release_download_count('UnknownX7', manifest["InternalName"], manifest['AssemblyVersion'])
         manifest['LastUpdate'] = str(int(getmtime(f'./plugins/{manifest["InternalName"]}/{manifest["InternalName"]}.json')))
+
+def get_release_download_count(username, repo, id):
+    r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
+    if r.status_code == 200:
+        data = r.json()
+        total = 0
+        for asset in data['assets']:
+            total += asset['download_count']
+        return total
+    else:
+        return 0
 
 def write_master(master):
     # write as pretty json
