@@ -4,7 +4,7 @@ from time import time
 from sys import argv
 from os.path import getmtime
 
-DOWNLOAD_URL = '{repo_url}/releases/latest/download/latest.zip'
+DOWNLOAD_URL = '{}/releases/v{}/download/latest.zip'
 
 DEFAULTS = {
     'IsHide': False,
@@ -62,7 +62,7 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(repo_url = manifest['RepoUrl'])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(manifest['RepoUrl'], manifest['AssemblyVersion'])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
