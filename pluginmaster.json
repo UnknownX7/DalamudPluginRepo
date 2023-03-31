@@ -23,7 +23,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadCount": 35,
-        "LastUpdate": "1680236856"
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadCount": 5,
-        "LastUpdate": "1680236856"
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
@@ -72,8 +72,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.11/latest.zip",
-        "DownloadCount": 2684,
-        "LastUpdate": "1680236856"
+        "DownloadCount": 2737,
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
@@ -98,8 +98,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 23,
-        "LastUpdate": "1680236856"
+        "DownloadCount": 24,
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
@@ -124,8 +124,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.2.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.2.1/latest.zip",
-        "DownloadCount": 56,
-        "LastUpdate": "1680236856"
+        "DownloadCount": 57,
+        "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
@@ -150,7 +150,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 14,
-        "LastUpdate": "1680236856"
+        "DownloadCount": 15,
+        "LastUpdate": "1680237651"
     }
 ]
