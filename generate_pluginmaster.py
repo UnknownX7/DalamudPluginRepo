@@ -3,7 +3,6 @@ import os
 import requests
 from time import time
 from sys import argv
-from os.path import getmtime
 
 DOWNLOAD_URL = '{}/releases/download/v{}/latest.zip'
 GITHUB_RELEASES_API_URL = 'https://api.github.com/repos/{}/{}/releases/tags/v{}'
@@ -45,6 +44,9 @@ def main():
     # convert the list of manifests into a master list
     add_extra_fields(master)
 
+    # update LastUpdate fields
+    get_last_updated_times(master)
+
     # write the master
     write_master(master)
 
@@ -56,14 +58,14 @@ def extract_manifests():
         if len(filenames) == 0 or f'{plugin_name}.json' not in filenames:
             continue
         with open(f'{dirpath}/{plugin_name}.json', 'r') as f:
-            manifest = json.loads(f.read())
+            manifest = json.load(f)
             manifests.append(manifest)
 
     return manifests
 
 def add_extra_fields(manifests):
     for manifest in manifests:
-        # generate the download link from the internal assembly name
+        # generate the download link
         manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(manifest['RepoUrl'], manifest['AssemblyVersion'])
         # add default values if missing
         for k, v in DEFAULTS.items():
@@ -75,7 +77,6 @@ def add_extra_fields(manifests):
                 if k not in manifest:
                     manifest[k] = manifest[source]
         manifest['DownloadCount'] = get_release_download_count('UnknownX7', manifest["InternalName"], manifest['AssemblyVersion'])
-        manifest['LastUpdate'] = str(int(getmtime(f'./plugins/{manifest["InternalName"]}/{manifest["InternalName"]}.json')))
 
 def get_release_download_count(username, repo, id):
     r = requests.get(GITHUB_RELEASES_API_URL.format(username, repo, id))
@@ -87,6 +88,22 @@ def get_release_download_count(username, repo, id):
         return total
     else:
         return 0
+    
+def get_last_updated_times(manifests):
+    with open('pluginmaster.json', 'r') as f:
+        previous_manifests = json.load(f)
+
+        for manifest in manifests:
+            manifest['LastUpdate'] = int(time())
+
+            for previous_manifest in previous_manifests:
+                if manifest['InternalName'] != previous_manifest['InternalName']:
+                    continue
+
+                if manifest['AssemblyVersion'] == previous_manifest['AssemblyVersion']:
+                    manifest['LastUpdate'] = previous_manifest['LastUpdate']
+
+                break
 
 def write_master(master):
     # write as pretty json
