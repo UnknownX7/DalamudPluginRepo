@@ -18,12 +18,15 @@ jobs:
         with:
             python-version: '3.8'
             cache: 'pip'
+            cache-dependency-path: '*/requirements.txt'
 
       - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate PluginMaster
-        run: python generate_pluginmaster.py
+        run: |
+          pip install -r requirements.txt
+          python generate_pluginmaster.py
 
       - name: Commit PluginMaster
         uses: EndBug/add-and-commit@v9
