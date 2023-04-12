@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.0.3.6/latest.zip",
-        "DownloadCount": 970,
+        "DownloadCount": 1011,
         "LastUpdate": "1680237651"
     },
     {
@@ -48,7 +48,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.8/latest.zip",
-        "DownloadCount": 265,
+        "DownloadCount": 280,
         "LastUpdate": "1680237651"
     },
     {
@@ -71,7 +71,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 61,
+        "DownloadCount": 66,
         "LastUpdate": "1680237651"
     },
     {
@@ -97,7 +97,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.2/latest.zip",
-        "DownloadCount": 6105,
+        "DownloadCount": 6254,
         "LastUpdate": "1680728565"
     },
     {
@@ -124,7 +124,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.12/latest.zip",
-        "DownloadCount": 14887,
+        "DownloadCount": 15088,
         "LastUpdate": "1680271014"
     },
     {
@@ -150,7 +150,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 544,
+        "DownloadCount": 574,
         "LastUpdate": "1680237651"
     }
 ]
