@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "Cammy",
   "InternalName": "Cammy",
-  "AssemblyVersion": "2.0.3.6",
+  "AssemblyVersion": "2.1.0.0",
   "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/Cammy",
@@ -18,6 +18,6 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
   "Punchline": "A simple editor for the game's camera settings",
-  "Changelog": "",
+  "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
   "AcceptsFeedback": true
 }
