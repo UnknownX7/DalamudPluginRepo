@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "ReAction",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.3.3.2",
+  "AssemblyVersion": "1.3.3.3",
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/ReAction",
@@ -18,6 +18,6 @@
   ],
   "IconUrl": "",
   "Punchline": "QoL for the battle system.",
-  "Changelog": "Added additional turbo and queuing options as well as various job related placeholders.",
+  "Changelog": "Job placeholders will no longer match yourself.",
   "AcceptsFeedback": true
 }
