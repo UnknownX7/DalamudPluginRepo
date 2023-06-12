@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "NoClippy",
   "InternalName": "NoClippy",
-  "AssemblyVersion": "0.5.0.12",
+  "AssemblyVersion": "0.5.0.13",
   "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/NoClippy",
@@ -19,6 +19,6 @@
   ],
   "IconUrl": "",
   "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-  "Changelog": "Added Feature of the Day",
+  "Changelog": "",
   "AcceptsFeedback": true
 }
