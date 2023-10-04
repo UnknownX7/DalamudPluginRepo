@@ -2,16 +2,17 @@
   "Author": "UnknownX",
   "Name": "Cammy",
   "InternalName": "Cammy",
-  "AssemblyVersion": "2.1.0.7",
+  "AssemblyVersion": "2.1.0.8",
   "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/Cammy",
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "ImageUrls": [
     "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
