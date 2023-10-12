@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.2/latest.zip",
-        "DownloadCount": 8054,
+        "DownloadCount": 8057,
         "LastUpdate": "1680237651"
     },
     {
@@ -45,7 +45,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 739,
+        "DownloadCount": 740,
         "LastUpdate": "1680237651"
     },
     {
@@ -71,7 +71,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 3058,
+        "DownloadCount": 3086,
         "LastUpdate": "1696378706"
     },
     {
@@ -98,7 +98,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.14/latest.zip",
-        "DownloadCount": 15837,
+        "DownloadCount": 16046,
         "LastUpdate": "1696379002"
     },
     {
@@ -124,7 +124,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.6/latest.zip",
-        "DownloadCount": 8646,
+        "DownloadCount": 8734,
         "LastUpdate": "1696379002"
     },
     {
@@ -150,7 +150,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.8/latest.zip",
-        "DownloadCount": 10023,
+        "DownloadCount": 10161,
         "LastUpdate": "1696379002"
     }
 ]
