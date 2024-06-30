@@ -2,14 +2,14 @@
   "Author": "UnknownX",
   "Name": "ReAction",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.3.3.7",
+  "AssemblyVersion": "1.3.3.8",
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/ReAction",
   "CategoryTags": [
     "jobs"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
