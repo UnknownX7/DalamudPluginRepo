@@ -1,29 +1,56 @@
 [
     {
         "Author": "UnknownX",
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Partially fixed for Dawntrail, some features may still be broken!",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.9",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.3",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
         "ApplicableVersion": "any",
         "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadCount": 16025,
+        "LastUpdate": "1700166956"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "NoClippy",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.16",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
             "utility"
         ],
         "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "IconUrl": "",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+            ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "DownloadCount": 22471,
-        "LastUpdate": "1720365098"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
+        "DownloadCount": 40283,
+        "LastUpdate": "1720125044"
     },
     {
         "Author": "UnknownX",
@@ -53,32 +80,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.3",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 16024,
-        "LastUpdate": "1700166956"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "ReAction",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
@@ -100,35 +101,34 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.9/latest.zip",
-        "DownloadCount": 17499,
+        "DownloadCount": 17588,
         "LastUpdate": "1719799238"
     },
     {
         "Author": "UnknownX",
-        "Name": "NoClippy",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.16",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Partially fixed for Dawntrail, some features may still be broken!",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.9",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "jobs",
             "utility"
         ],
         "DalamudApiLevel": 10,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
         "ImageUrls": [
-            ""
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-        "DownloadCount": 39965,
-        "LastUpdate": "1720125044"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadCount": 22630,
+        "LastUpdate": "1720365098"
     },
     {
         "Author": "UnknownX",
