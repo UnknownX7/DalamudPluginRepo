@@ -1,32 +1,6 @@
 [
     {
         "Author": "UnknownX",
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
-        "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.11",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 10188,
-        "LastUpdate": "1696378706"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "Fractionality",
         "Punchline": "DEPRECATED",
         "Description": "This plugin is available as an option in ReAction now.",
@@ -45,34 +19,34 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 885,
+        "DownloadCount": 886,
         "LastUpdate": "1680237651"
     },
     {
         "Author": "UnknownX",
-        "Name": "DalamudRepoBrowser",
-        "Punchline": "Browse and add third party repositories in an instant",
-        "Description": "An interface for browsing and managing third party repositories.",
-        "Changelog": "",
-        "InternalName": "DalamudRepoBrowser",
-        "AssemblyVersion": "2.0.3.3",
-        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Partially fixed for Dawntrail, some features may still be broken!",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.9",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "other"
+            "utility"
         ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
         "ImageUrls": [
-            ""
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 16050,
-        "LastUpdate": "1700166956"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadCount": 26473,
+        "LastUpdate": "1720365098"
     },
     {
         "Author": "UnknownX",
@@ -97,7 +71,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.3.10/latest.zip",
-        "DownloadCount": 11409,
+        "DownloadCount": 11781,
         "LastUpdate": "1722547357"
     },
     {
@@ -124,33 +98,59 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.16/latest.zip",
-        "DownloadCount": 45935,
+        "DownloadCount": 46159,
         "LastUpdate": "1720125044"
     },
     {
         "Author": "UnknownX",
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Partially fixed for Dawntrail, some features may still be broken!",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.9",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.11",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
         "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+            ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.9/latest.zip",
-        "DownloadCount": 26354,
-        "LastUpdate": "1720365098"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadCount": 10191,
+        "LastUpdate": "1696378706"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "Browse and add third party repositories in an instant",
+        "Description": "An interface for browsing and managing third party repositories.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.3.3",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
+        "DownloadCount": 16054,
+        "LastUpdate": "1700166956"
     }
 ]
