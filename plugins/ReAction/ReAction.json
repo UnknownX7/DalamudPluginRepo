@@ -2,14 +2,14 @@
   "Author": "UnknownX",
   "Name": "ReAction",
   "InternalName": "ReAction",
-  "AssemblyVersion": "1.3.3.10",
+  "AssemblyVersion": "1.3.3.11",
   "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/UnknownX7/ReAction",
   "CategoryTags": [
     "jobs"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
@@ -19,6 +19,6 @@
   ],
   "IconUrl": "",
   "Punchline": "QoL for the battle system.",
-  "Changelog": "Fixed an issue with queuing some charged actions.",
+  "Changelog": "",
   "AcceptsFeedback": true
 }
