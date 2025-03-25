@@ -59,7 +59,7 @@ jobs:
 
   deploy:
     needs: build
-    runs-on: windows-2022
+    runs-on: windows-latest
 
     steps:
       - name: Checkout Plugin Repository
