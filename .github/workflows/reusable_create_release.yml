@@ -27,7 +27,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: windows-2022
+    runs-on: windows-latest
 
     steps:
       - name: Checkout Repository
@@ -46,7 +46,7 @@ jobs:
 
       - name: Download Dalamud
         run: |
-          Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/stg/latest.zip -OutFile latest.zip
+          Invoke-WebRequest -Uri https://goatcorp.github.io/dalamud-distrib/api12/latest.zip -OutFile latest.zip
           Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev\"
 
       - name: Build
