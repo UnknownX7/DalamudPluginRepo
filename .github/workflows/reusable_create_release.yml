@@ -31,15 +31,15 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true
 
       - name: Setup MSBuild
-        uses: microsoft/setup-msbuild@v1
+        uses: microsoft/setup-msbuild@v2
 
       - name: Setup NuGet
-        uses: NuGet/setup-nuget@v1
+        uses: NuGet/setup-nuget@v2
 
       - name: Restore NuGet Packages
         run: nuget restore ${{ inputs.solution_name }}.sln
@@ -53,7 +53,7 @@ jobs:
         run: msbuild ${{ inputs.solution_name }}.sln /p:Configuration=${{ inputs.build_configuration }}
 
       - name: Upload Build Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           path: ./bin/${{ inputs.build_configuration }}/${{ inputs.solution_name }}/*
 
@@ -63,14 +63,14 @@ jobs:
 
     steps:
       - name: Checkout Plugin Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: ${{ inputs.personal_plugin_repo }}
           token: ${{ secrets.PAT }}
           ref: ${{ inputs.personal_plugin_repo_branch }}
 
       - name: Download Plugin Build Artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: artifact
           path: plugins/${{ inputs.internal_name }}
@@ -84,7 +84,7 @@ jobs:
           message: ${{ inputs.internal_name }} ${{ github.ref_name }}
 
       - name: Create Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: ./plugins/${{ inputs.internal_name }}/latest.zip
           draft: false
