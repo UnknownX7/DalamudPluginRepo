@@ -22,7 +22,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudRepoBrowser/releases/download/v2.0.3.3/latest.zip",
-        "DownloadCount": 16222,
+        "DownloadCount": 16223,
         "LastUpdate": "1700166956"
     },
     {
@@ -48,7 +48,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.4.1/latest.zip",
-        "DownloadCount": 21707,
+        "DownloadCount": 21772,
         "LastUpdate": "1743025009"
     },
     {
@@ -97,7 +97,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 10459,
+        "DownloadCount": 10460,
         "LastUpdate": "1696378706"
     },
     {
@@ -123,7 +123,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.12/latest.zip",
-        "DownloadCount": 35767,
+        "DownloadCount": 35863,
         "LastUpdate": "1745885672"
     },
     {
@@ -150,7 +150,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.18/latest.zip",
-        "DownloadCount": 59623,
+        "DownloadCount": 59708,
         "LastUpdate": "1742952225"
     }
 ]
