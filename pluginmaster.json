@@ -1,29 +1,30 @@
 [
     {
         "Author": "UnknownX",
-        "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "Added a blacklist for turbo hotbar keybinds",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.5.0",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "Name": "NoClippy",
+        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
+        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
+        "Changelog": "Fixed crash (Thanks to Zeffuro)",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.5.0.22",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
         "CategoryTags": [
-            "jobs"
+            "jobs",
+            "utility"
         ],
         "DalamudApiLevel": 14,
         "IconUrl": "",
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
-        "DownloadCount": 8501,
-        "LastUpdate": "1776323333"
+        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
+        "DownloadCount": 55877,
+        "LastUpdate": "1769615275"
     },
     {
         "Author": "UnknownX",
@@ -53,6 +54,58 @@
     },
     {
         "Author": "UnknownX",
+        "Name": "ReAction",
+        "Punchline": "QoL for the battle system.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "Added a blacklist for turbo hotbar keybinds",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.3.5.0",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.0/latest.zip",
+        "DownloadCount": 8909,
+        "LastUpdate": "1776323333"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Fix disconnects not reapply presets on login",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.0.15",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.15/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.15/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.15/latest.zip",
+        "DownloadCount": 45798,
+        "LastUpdate": "1767383467"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "OOBlugin",
         "Punchline": "oob oob",
         "Description": "oob oob",
@@ -79,32 +132,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Fix disconnects not reapply presets on login",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.0.15",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.15/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.15/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.0.15/latest.zip",
-        "DownloadCount": 45724,
-        "LastUpdate": "1767383467"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "Fractionality",
         "Punchline": "DEPRECATED",
         "Description": "This plugin is available as an option in ReAction now.",
@@ -125,32 +152,5 @@
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadCount": 971,
         "LastUpdate": "1680237651"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "NoClippy",
-        "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-        "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander.",
-        "Changelog": "Fixed crash (Thanks to Zeffuro)",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.5.0.22",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 14,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.22/latest.zip",
-        "DownloadCount": 55729,
-        "LastUpdate": "1769615275"
     }
 ]
