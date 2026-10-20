@@ -1,6 +1,32 @@
 [
     {
         "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.11",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 9,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
+        "DownloadCount": 10650,
+        "LastUpdate": "1696378706"
+    },
+    {
+        "Author": "UnknownX",
         "Name": "Fractionality",
         "Punchline": "DEPRECATED",
         "Description": "This plugin is available as an option in ReAction now.",
@@ -19,8 +45,34 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/Fractionality/releases/download/v1.0.1.5/latest.zip",
-        "DownloadCount": 1014,
+        "DownloadCount": 1015,
         "LastUpdate": "1680237651"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy",
+        "Punchline": "A simple editor for the game's camera settings",
+        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
+        "Changelog": "Fix camera resetting to default on zoning (Thanks to Chat Ja)",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.1.1.2",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
+        "DownloadCount": 58366,
+        "LastUpdate": "1777904465"
     },
     {
         "Author": "UnknownX",
@@ -50,32 +102,6 @@
     },
     {
         "Author": "UnknownX",
-        "Name": "OOBlugin",
-        "Punchline": "oob oob",
-        "Description": "oob oob",
-        "Changelog": "",
-        "InternalName": "OOBlugin",
-        "AssemblyVersion": "1.1.2.11",
-        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/OOBlugin/releases/download/v1.1.2.11/latest.zip",
-        "DownloadCount": 10650,
-        "LastUpdate": "1696378706"
-    },
-    {
-        "Author": "UnknownX",
         "Name": "ReAction",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
@@ -97,34 +123,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/ReAction/releases/download/v1.3.5.1/latest.zip",
-        "DownloadCount": 25489,
+        "DownloadCount": 25492,
         "LastUpdate": "1777513055"
-    },
-    {
-        "Author": "UnknownX",
-        "Name": "Cammy",
-        "Punchline": "A simple editor for the game's camera settings",
-        "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-        "Changelog": "Fix camera resetting to default on zoning (Thanks to Chat Ja)",
-        "InternalName": "Cammy",
-        "AssemblyVersion": "2.1.1.2",
-        "RepoUrl": "https://github.com/UnknownX7/Cammy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "utility"
-        ],
-        "DalamudApiLevel": 15,
-        "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/Cammy/releases/download/v2.1.1.2/latest.zip",
-        "DownloadCount": 58357,
-        "LastUpdate": "1777904465"
     },
     {
         "Author": "UnknownX",
@@ -150,7 +150,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
         "DownloadLinkUpdate": "https://github.com/UnknownX7/NoClippy/releases/download/v0.5.0.24/latest.zip",
-        "DownloadCount": 87384,
+        "DownloadCount": 87397,
         "LastUpdate": "1777510404"
     }
 ]
